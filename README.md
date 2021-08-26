@@ -2,7 +2,7 @@
 
 [![style: lint](https://img.shields.io/badge/style-lint-4BC0F5.svg)](https://pub.dev/packages/lint)
 
-A flutter app that uses flutter slivers, project on google codelabs.[horizons codelad](https://dartpad.dev/workshops.html?webserver=https://dartpad-workshops-io2021.web.app/getting_started_with_slivers&utm_source=google-io21&utm_medium=referral&utm_campaign=io21-resources)
+A flutter app that uses flutter slivers, project on google codelabs.[horizons codelab](https://dartpad.dev/workshops.html?webserver=https://dartpad-workshops-io2021.web.app/getting_started_with_slivers&utm_source=google-io21&utm_medium=referral&utm_campaign=io21-resources)
 
 Below are screenshots of the app.
 
